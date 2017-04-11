@@ -4,7 +4,6 @@ package com.jdbc;
  * Created by Дима on 06.04.2017.
  */
 public class Product {
-    private int t;
     private int id;
     private String name;
     private double price;
